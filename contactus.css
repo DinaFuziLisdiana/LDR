@@ -1,0 +1,198 @@
+* {
+    text-decoration: none;
+    margin: 0px;
+    padding: 0px;
+}
+nav {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	background-color: #182747;
+
+}
+nav ul li {
+	list-style-type: none;
+	display: inline-block;
+	padding: 10px 25px;
+}
+nav ul li a {
+	color: white;
+	font-weight: bold;
+	font-size: 15px;
+	text-transform: capitalize;
+}
+.ngiri {
+	float: left;
+	margin-left: 25px;
+	margin-top: 5px;
+	color:  white;
+	padding-bottom: 4px;
+}
+#navbar_h1{
+	float: left;
+	font-size: 30px;
+	margin-top: 10px;
+}
+.navbar_h6 {
+	font-size: 13px;
+	padding-left: 50px;
+	margin-left: 20px;
+	width: 1px;
+	margin-top: 7px;
+}
+
+.servise{
+	background: black;
+	width: 100%;
+	padding: 100px 0;
+}
+
+.title h2{
+	color: #E26868;
+	font-size: 45px;
+	width: 100%;
+	margin-bottom: 30px auto;
+	text-align: center;
+	padding: 30px;
+	margin-top: 30px;
+}
+
+.kotak{
+	display: flex;
+	align-items: center;
+	padding-left: 70px;
+	
+}
+
+.card1{
+	height: 250px;
+	width: 240px;
+	padding: 20px 35px;
+	background: whitesmoke;
+	border-radius: 20px;
+	margin: 15px;
+	position: relative;
+	text-align: center;
+	border: 1px solid #182747;
+	margin-left: 50px;
+
+}
+.card1 h5{
+	color: #182747;
+	font-size: 22px;
+	margin-bottom: 15px;
+	padding: 25px;
+}
+.pra1 img{
+	width: 75px;
+    height: 75px; 
+}
+.pra2 img{
+	width: 40px;
+    height: 40px;   
+}
+.card2{
+	height: 250px;
+	width: 240px;
+	padding: 20px 35px;
+	background: whitesmoke;
+	border-radius: 20px;
+	margin: 15px;
+	position: relative;
+	text-align: center;
+	border: 1px solid #182747;
+	margin-left: 50px;
+}
+.card2 h5{
+	color: #182747;
+	font-size: 22px;
+	margin-bottom: 15px;
+	padding: 25px;
+}
+.pra3 img{
+	width: 75px;
+    height: 75px; 
+}
+.pra4 img{
+	width: 40px;
+    height: 40px;   
+}
+.card3{
+	height: 250px;
+	width: 240px;
+	padding: 20px 35px;
+	background: whitesmoke;
+	border-radius: 20px;
+	margin: 15px;
+	position: relative;
+	text-align: center;
+	border: 1px solid #182747;
+	margin-left: 50px;
+	
+}
+.card3 h5{
+	color: #182747;
+	font-size: 22px;
+	margin-bottom: 15px;
+	padding: 25px;
+}
+.pra5 img{
+	width: 75px;
+    height: 75px; 
+}
+.pra6 img{
+	width: 40px;
+    height: 40px;   
+}
+.card4{
+	height: 250px;
+	width: 240px;
+	padding: 20px 35px;
+	background: whitesmoke;
+	border-radius: 20px;
+	margin: 15px;
+	position: relative;
+	text-align: center;
+	border: 1px solid #182747;
+	margin-left: 250px;
+}
+.card4 h5{
+	color: #182747;
+	font-size: 22px;
+	margin-bottom: 15px;
+	padding: 25px;
+}
+.pra7 img{
+	width: 75px;
+    height: 75px; 
+}
+.pra8 img{
+	width: 40px;
+    height: 40px;   
+}
+.card5{
+	height: 250px;
+	width: 240px;
+	padding: 20px 35px;
+	background: whitesmoke;
+	border-radius: 20px;
+	margin: 15px;
+	position: relative;
+	text-align: center;
+	border: 1px solid #182747;
+	margin-left: 50px;
+}
+.card5 h5{
+	color: #182747;
+	font-size: 22px;
+	margin-bottom: 15px;
+	padding: 25px;
+}
+.pra9 img{
+	width: 75px;
+    height: 75px; 
+}
+.pra10 img{
+	width: 40px;
+    height: 40px;   
+}

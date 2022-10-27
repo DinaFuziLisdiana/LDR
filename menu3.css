@@ -1,0 +1,319 @@
+* {
+	padding: 0;
+	margin: 0;
+	text-decoration: none;
+	font-family: 'Roboto', sans-serif;
+}
+.container {
+	height: 130vh;
+	background-size: cover;
+	background-position: center;
+	background-color: white;
+
+}
+nav {
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+	background-color: #182747;
+
+}
+nav ul li {
+	list-style-type: none;
+	display: inline-block;
+	padding: 10px 25px;
+}
+nav ul li a {
+	color: white;
+	font-weight: bold;
+	font-size: 15px;
+	text-transform: capitalize;
+	text-decoration: none;
+}
+.ngiri {
+	float: left;
+	margin-left: 25px;
+	margin-top: 5px;
+	color:  white;
+	padding-bottom: 4px;
+}
+#navbar_h1{
+	float: left;
+	font-size: 30px;
+	margin-top: 10px;
+}
+.navbar_h6 {
+	font-size: 13px;
+	padding-left: 50px;
+	margin-left: 20px;
+	width: 1px;
+	margin-top: 7px;
+}
+
+.jelas {
+	font-size: 17px;
+	padding-top: 80px;
+	border-bottom: 4px  #182747;
+}
+.jelas h1 {
+	color: #E26868;
+	padding-left: 100px;
+}
+.jelas h3 {
+	width: 1100px;
+	font-size: 16px;
+	padding-left: 100px;
+	text-align: justify;
+	text-indent: 20px;
+	font-weight: normal;
+	letter-spacing: 1px;
+	line-height: 1.4;
+	color: #182747;
+	padding-bottom: 30px;
+	padding-top: 10px;
+}	
+.judul {
+	color: #E26868;
+	text-align: center;
+	font-size: 35px;
+	font-weight: bold;
+	padding-top: 70px;
+	padding-bottom: 20px;
+	height: 50px;
+
+}
+
+.white{
+	color: white;
+	font-size: 22px;
+
+	
+}
+.poto1 {
+	width: 40%;
+	height: 60%;
+	position: absolute;
+	bottom: 0;
+	left: 30px;
+
+}
+.poto1 img {
+	height: 100%;
+	width: 80%;
+	top: 350px;
+	position: absolute;
+	bottom: 0;
+	left: 140px;
+
+}
+.isi1 {
+	position: absolute;
+	top: 300px;
+	left: 920px;
+	margin-top: 400px;
+	transform: translate(-50%);
+}
+h2 {
+	color: #182747;
+	letter-spacing: 2px;
+	font-size: 25px;
+}
+p {
+	color: #182747;
+	font-size: 18px;
+	line-height: 1.2;
+	letter-spacing: 3px;
+	margin: 20px 0 20px;
+	width: 500px;
+	text-align:justify;
+}
+.poto2 {
+	width: 40%;
+	height: 60%;
+	position: absolute;
+	bottom: 0;
+	left: 30px;
+
+}
+.poto2 img {
+	height: 100%;
+	width: 80%;
+	top: 750px;
+	position: absolute;
+	bottom: 30px;
+	left: 140px;
+
+}
+.isi2 {
+	position: absolute;
+	top: 700px;
+	left: 920px;
+	margin-top: 400px;
+	transform: translate(-50%);
+}
+h2 {
+	color: #182747;
+	letter-spacing: 2px;
+	font-size: 25px;
+}
+p {
+	color: #182747;
+	font-size: 18px;
+	line-height: 1.2;
+	letter-spacing: 3px;
+	margin: 20px 0 20px;
+	width: 500px;
+	text-align:justify;
+}
+.poto3 {
+	width: 40%;
+	height: 60%;
+	position: absolute;
+	bottom: 0;
+	left: 30px;
+
+}
+.poto3 img {
+	height: 100%;
+	width: 80%;
+	top: 1200px;
+	position: absolute;
+	bottom: 0;
+	left: 140px;
+
+}
+.isi3 {
+	position: absolute;
+	top: 1150px;
+	left: 920px;
+	margin-top: 400px;
+	transform: translate(-50%);
+}
+h2 {
+	color: #182747;
+	letter-spacing: 2px;
+	font-size: 25px;
+}
+p {
+	color: #182747;
+	font-size: 18px;
+	line-height: 1.2;
+	letter-spacing: 3px;
+	margin: 20px 0 20px;
+	width: 500px;
+	text-align:justify;
+}
+.poto4 {
+	width: 40%;
+	height: 60%;
+	position: absolute;
+	bottom: 0;
+	left: 30px;
+
+}
+.poto4 img {
+	height: 100%;
+	width: 70%;
+	top: 1650px;
+	position: absolute;
+	bottom: 0;
+	left: 170px;
+
+}
+.isi4{
+	position: absolute;
+	top: 1600px;
+	left: 920px;
+	margin-top: 400px;
+	transform: translate(-50%);
+}
+h2 {
+	color: #182747;
+	letter-spacing: 2px;
+	font-size: 25px;
+}
+p {
+	color: #182747;
+	font-size: 18px;
+	line-height: 1.2;
+	letter-spacing: 3px;
+	margin: 20px 0 20px;
+	width: 500px;
+	text-align:justify;
+}
+.poto5 {
+	width: 40%;
+	height: 60%;
+	position: absolute;
+	bottom: 0;
+	left: 30px;
+
+}
+.poto5 img {
+	height: 80%;
+	width: 70%;
+	top: 2100px;
+	position: absolute;
+	bottom: 0;
+	left: 170px;
+
+}
+.isi5{
+	position: absolute;
+	top: 2050px;
+	left: 920px;
+	margin-top: 400px;
+	transform: translate(-50%);
+}
+h2 {
+	color: #182747;
+	letter-spacing: 2px;
+	font-size: 25px;
+}
+p {
+	color: #182747;
+	font-size: 18px;
+	line-height: 1.2;
+	letter-spacing: 3px;
+	margin: 20px 0 20px;
+	width: 500px;
+	text-align:justify;
+}
+.poto6 {
+	width: 40%;
+	height: 60%;
+	position: absolute;
+	bottom: 0;
+	left: 30px;
+
+}
+.poto6 img {
+	height: 90%;
+	width: 70%;
+	top: 2470px;
+	position: absolute;
+	bottom: 0;
+	left: 170px;
+
+}
+.isi6{
+	position: absolute;
+	top: 2340px;
+	left: 920px;
+	margin-top: 400px;
+	transform: translate(-50%);
+}
+h2 {
+	color: #182747;
+	letter-spacing: 2px;
+	font-size: 25px;
+}
+p {
+	color: #182747;
+	font-size: 18px;
+	line-height: 1.2;
+	letter-spacing: 3px;
+	margin: 20px 0 20px;
+	width: 500px;
+	text-align:justify;
+}
